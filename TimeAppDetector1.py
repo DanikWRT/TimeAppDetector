@@ -11,7 +11,7 @@ import traceback
 # Глобальные переменные
 uptime = ""
 process_name = "Telegram.exe"
-image = Image.open("icon.ico")
+image = Image.open("icon.png")
 
 # Функция для получения времени запуска процесса
 def get_process_uptime(process_name):
